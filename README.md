@@ -1,8 +1,6 @@
-### SimpleHangman
+# SimpleHangman
 A simple , fun Hangman game implemented in Google Colab (Jupyter Notebook service)
 Welcome to the this simple Hangman Game! This is a fun and tech-themed Hangman game implemented in Python. The aim of the game is to guess a letter in the word, and provide a feedback.
-
-# Simple Hangman
 
 ## Summary
 This project is a simple implementation of the classic Hangman game. Users can guess letters to reveal a hidden word, with a limited number of incorrect guesses allowed before the game is over.
