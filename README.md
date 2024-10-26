@@ -2,21 +2,20 @@
 A simple , fun Hangman game implemented in Google Colab (Jupyter Notebook service)
 Welcome to the this simple Hangman Game! This is a fun and tech-themed Hangman game implemented in Python. The aim of the game is to guess a letter in the word, and provide a feedback.
 
-### Challenge to be removed in the Unique Hangman game
-Limited variety and engagement.
-No customization to match player skill levels.
-Reduced player engagement and satisfaction.
+# Simple Hangman
 
-### How to Play
-1. Run the code in a Google Colab notebook.
-2. Execute code in each cell.
-3. The game will generate a random tech-themed word.
-4. You will be prompted to guess a letter.
-5. The game will check if your guessed letter is in the word and provide feedback.
-6. Keep playing, keep guessing
+## Summary
+This project is a simple implementation of the classic Hangman game. Users can guess letters to reveal a hidden word, with a limited number of incorrect guesses allowed before the game is over.
 
-### Requirements
-- Python 3.x
+## Languages and Libraries Used
+- Python
+- Google Colab
 
-### Running the Game
-To run the game, simply copy the code into a Google Colab notebook and execute the cells.
+## Key Learnings
+This project helped in practicing fundamental Python programming skills, including string manipulation, control flow, and user input handling. It also reinforced the importance of writing clean and modular code for better readability and maintenance. Additionally, using Google Colab streamlined collaboration and execution in a cloud environment.
+
+## Challenges Overcame
+One of the main challenges was handling user input to ensure valid guesses and managing the game state effectively. Another challenge was implementing a simple yet effective user interface for the game. Configuring the project in Google Colab also provided insights into using cloud-based IDEs for collaborative work.
+
+## Additional Reflections
+This project was a great exercise in applying basic programming concepts in a fun and interactive way. It provided valuable experience in debugging and refining code to improve the overall user experience.
